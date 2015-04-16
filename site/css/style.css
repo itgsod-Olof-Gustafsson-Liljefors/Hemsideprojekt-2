@@ -1,0 +1,55 @@
+
+body {
+    background: url('site/img/background.png');
+}
+
+nav {
+    background-color: #FFDC19;
+
+    height: 76px;
+    width: auto;
+}
+
+
+nav > a > img {
+    float: left;
+    height: 100px;
+}
+
+
+
+footer {
+    height: 70px;
+    background-color: #005E7F;
+    width: auto;
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+    -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 1.2);
+    box-shadow:         0px 3px 5px rgba(100, 100, 100, 1.2);
+}
+#Copyright_color {
+    color: gray;
+}
+
+.container {
+    -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+    -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 1.2);
+    box-shadow:         0px 3px 5px rgba(100, 100, 100, 1.2);
+    padding-right: 0px;
+    padding-left: 0px;
+
+}
+
+#content {
+    height: 600px;
+    background-color: white;
+}
+
+.main {
+    height: 500px;
+}
+
+#NavKnappar {
+ margin-right: auto;
+ margin-left: auto;
+
+}
