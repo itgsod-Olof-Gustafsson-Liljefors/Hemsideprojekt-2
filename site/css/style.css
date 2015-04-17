@@ -42,10 +42,32 @@ footer {
 #content {
     height: 600px;
     background-color: white;
+    padding: 30px;
+}
+#myCarousel {
+    display: inline-block; width: 100%;
+    margin-top: 40px;
+}
+.carousel-caption {
+    font-size: 24px;
+}
+.carousel-caption h4 {
+    font-size: 32px;
+}
+#myCarousel .item {
+    height: 450px;
+}
+#slide1 {
+    background-color: #FFDC19;
+}
+#slide2 {
+    background-color: #FFDC19;
 }
 
 .main {
     height: 500px;
+#slide3 {
+    background-color: #FFDC19;
 }
 
 #NavKnappar {
