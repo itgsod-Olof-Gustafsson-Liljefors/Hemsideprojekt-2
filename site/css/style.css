@@ -19,7 +19,7 @@ footer {
     color: gray;
 }
 .container {
-    box-shadow: 0px 3px 5px rgba(100, 100, 100, 1.2);
+
     padding-right: 0px;
     padding-left: 0px;
 }
@@ -27,13 +27,14 @@ footer {
     height: 600px;
     background-color: white;
     padding: 30px;
+    padding-top: 0px;
 }
 #myCarousel {
     display: inline-block; width: 100%;
-    margin-top: 40px;
 }
 .carousel-caption {
     font-size: 24px;
+    color: #337ab7;
 }
 .carousel-caption h4 {
     font-size: 32px;
@@ -57,6 +58,9 @@ background: url('') top center no-repeat;
 
 
 
+.veckans maltider {
+    margin-left: 300px;
+}
 
 
 
