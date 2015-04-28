@@ -53,6 +53,14 @@ footer {
 background: url('') top center no-repeat;
 
 }
+#klass_schema{
+    margin-left: 0px;
+    height: 30px;
+    width: 150px;
+    margin-top: 3px;
+   padding-left: 10px;
+   color: #337ab7;
+}
 #NavKnappar {
  margin-right: auto;
  margin-left: auto;
