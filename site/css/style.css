@@ -52,6 +52,15 @@ footer {
 
 background: url('') top center no-repeat;
 
+.veckans_maltider {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFA7C;
+    margin-top: 0px;
+    color: #337ab7;
+}
+#Schema_schema{
+ width: 1010px;
 }
 #klass_schema{
     margin-left: 0px;
