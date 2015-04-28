@@ -24,10 +24,6 @@ footer {
     padding-left: 0px;
 }
 #content {
-    height: 600px;
-    background-color: white;
-    padding: 30px;
-    padding-top: 0px;
     background-color: #FFFA7C;
 }
 #myCarousel {
@@ -56,15 +52,7 @@ footer {
 
 background: url('') top center no-repeat;
 
-
-
-
-.veckans maltider {
-    margin-left: 300px;
 }
-
-
-
 #NavKnappar {
  margin-right: auto;
  margin-left: auto;
