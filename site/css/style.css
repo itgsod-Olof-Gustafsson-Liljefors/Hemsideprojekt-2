@@ -24,7 +24,9 @@ footer {
     padding-left: 0px;
 }
 #content {
+    height: 500px;
     background-color: #FFFA7C;
+
 }
 #myCarousel {
     display: inline-block; width: 100%;
@@ -41,6 +43,7 @@ footer {
 }
 #slide1 {
     background-color: #FFDC19;
+    margin-top: 0px;
 }
 #slide2 {
     background-color: #FFDC19;
@@ -51,6 +54,8 @@ footer {
 }
 
 
+#maltider {
+    text-align: center;
     background-color: #FFFA7C;
     margin-top: 0px;
     color: #337ab7;
