@@ -74,3 +74,15 @@ footer {
 #NavKnappar > li{
     margin-right: 150px;
 }
+#om_oss{
+    margin-left:40%;
+    margin-top: 0px;
+    color: #337ab7;
+}
+
+
+#personal{
+    color: #337ab7;
+    background-color: #FFFA7C;
+    margin-left: 40%;
+}
