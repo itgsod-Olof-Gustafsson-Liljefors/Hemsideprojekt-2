@@ -75,3 +75,6 @@ background: url('') top center no-repeat;
  margin-left: auto;
 }
 
+#NavKnappar > li{
+    margin-right: 150px;
+}
