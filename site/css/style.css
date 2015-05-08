@@ -34,6 +34,7 @@ footer {
 .carousel-caption {
     font-size: 24px;
     color: #337ab7;
+    color: black;
 }
 .carousel-caption h4 {
     font-size: 32px;
@@ -63,6 +64,7 @@ footer {
 #Schema_schema{
  width: 1010px;
 }
+
 #klass_schema{
     margin-left: 0px;
     height: 30px;
@@ -90,4 +92,15 @@ footer {
     color: #337ab7;
     background-color: #FFFA7C;
     margin-left: 40%;
+}
+body{
+    background-color: #FFFA7C;
+}
+
+.table {
+    border: 2px black solid;
+}
+
+#personal_bilder{
+
 }
