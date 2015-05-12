@@ -100,5 +100,7 @@ body{
 }
 
 #personal_bilder{
+ float: left;
+ margin-left: 11px;
 
 }
