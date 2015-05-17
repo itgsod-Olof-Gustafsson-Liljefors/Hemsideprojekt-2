@@ -1,7 +1,6 @@
 
 nav {
     background-color: #FFDC19;
-
     height: 76px;
     width: auto;
 }
@@ -85,9 +84,10 @@ footer {
 
 
 #personal{
-    color: #337ab7;
-    background-color: #FFFA7C;
     margin-left: 40%;
+    background-color: #FFFA7C;
+    margin-top: 0px;
+    color: #337ab7;
 }
 body{
     background-color: #FFFA7C;
