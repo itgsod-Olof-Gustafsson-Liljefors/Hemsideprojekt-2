@@ -24,12 +24,11 @@ footer {
     padding-left: 0px;
 }
 #content {
-    height: 500px;
-    background-color: #FFFA7C;
-
+    height: 530px;
 }
 #myCarousel {
     display: inline-block; width: 100%;
+
 }
 .carousel-caption {
     font-size: 24px;
