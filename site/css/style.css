@@ -93,14 +93,30 @@ body{
     background-color: #FFFA7C;
 }
 
-.table {
-    border: 2px black solid;
-    width: 1000px;
-    margin-top: 10px;
+table.table_mat, td, th{
+    border: 2px solid black;
+    width: 900px;
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #personal_bilder{
  float: left;
- margin-left: 11px;
+ margin-left: 0px;
+ height: 150px;
+ width: 140px;
+}
+.content_margin{
+    margin: 50px 95px 65px 95px;
+}
+
+table.personal_table, td.personal_table, th.personal_table{
+    border: 0px solid black;
+    width: 900px;
+    margin-top: 40px;
+   margin-left: auto;
+    margin-right: auto;
 
 }
+
